@@ -1,0 +1,3 @@
+Test Contarct Token: 0x77f6dF85E71cA2d153Dc918F356F9D462F508677
+Launchpad Contract: 0x47f48B3a85014357f99ab7c5D272B3d7B0e254f6
+Claim Contract: 
